@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>오늘의 일기</title>
+    </head>
+    <body>
+        <p>
+            <h1>오늘의 일기</h1>
+            오늘 <strong>고기</strong>를 먹었다.<br>
+            맛있었다.<br>
+            <img src="https://get.pxhere.com/photo/dish-food-bbq-eat-meat-barbecue-pork-cuisine-beef-steak-grill-prosciutto-tasty-raw-frisch-prepare-ham-grilled-meats-red-meat-roast-beef-animal-source-foods-kobe-beef-sirloin-steak-salt-cured-meat-back-bacon-capicola-kassler-491407.jpg" width=200px>
+        </p>
+        <p>
+            <strong>근데 고기는 왜 맛있을까?</strong><br>
+            정말 왜 맛있을까?<br>
+            나도 모른다. 말하면 말할수록 배고파지니 그만하겠다.
+        </p>
+    </body>
+</html>
